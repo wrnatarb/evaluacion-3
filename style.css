@@ -1,0 +1,12 @@
+/* predefiniciones de lo que utiliza bootstrap */
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root
+{
+  --bs-danger-rgb: 90, 130, 170; 
+  --bs-font-sans-serif:"Inter Tight", sans-serif;
+  --bs-body-font-family: var(--bs-font-sans-serif);
+  
+}
+ 
+   /*redefiniciones de colores y etc
