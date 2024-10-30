@@ -3,108 +3,108 @@
         "nombre": "The Snoopy Show",
         "fecha": "2021",
         "signo": "animado",
-        "foto": ["snoopy-0.webp"] ,
+        "foto": "https://github.com/user-attachments/assets/e6cce483-58ba-4ab4-82ef-b0f745b8a8ab",
         "github": "https://github.com/wrnatarb",
         "desc": "El perrito más icónico del mundo está aquí. Descubre nuevas aventuras con el beagle más bailarín y soñador, acompañado de su mejor amigo Wooastock, y el resto de la pandilla.",
-        "fotos": ["snoopy-1.webp","snoopy-2.webp","snoopy-3.webp"] 
+        "fotos": ["snoopy-1.jpg","snoopy-2.jpg","snoopy-3.jpg"] 
     },
     {
         "nombre": "Nana",
         "fecha": "2006",
         "signo": "animado",
-        "foto": ["nana-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/a23a5e68-cd19-4b5d-bbe6-e3a828d17e39",
         "desc": "Dos chicas con el mismo nombre, pero con personalidades totalmente opuestas, llegan a Tokio para comenzar una nueva vida.",
         "github": "https://github.com/wrnatarb",
-        "fotos": ["nana-1.webp","nana-2.webp","nana-3.webp"]
+        "fotos": ["nana-1.jpg","nana-2.jpg","nana-3.jpg"]
     },
     {
         "nombre": "Big Fish",
         "fecha": "2004",
         "signo": "pelicula",
         "desc": "El joven William Bloom regresa a su casa para cuidar a su padre enfermo, quien cuenta interminables historias sobre su pasado.",
-        "foto": ["bigfish-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/fc6bc755-87d0-4e0a-9b38-ab61cfc86680",
         "github": "https://github.com/wrnatarb",
-        "fotos": ["bigfish-1.webp","bigfish-2.webp","bigfish-3.webp"]
+        "fotos": ["bigfish-1.jpg","bigfish-2.jpg","bigfish-3.jpg"]
     },
     {
         "nombre": "The Handmaiden",
         "fecha": "2016",
         "signo": "pelicula",
         "desc": "Sookee es una joven que, en la Corea de los años 30, es contratada para servir como doncella en la casa de una rica heredera japonesa. Hideko, que vive recluida en una gran mansión bajo la influencia de un tirano, desconoce que, en realidad, la doncella está involucrada en un complot para estafarla.",
-        "foto": ["thehandmaiden-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/76ff083c-fe67-415d-9e69-4833b7ac7884",
         "github": "https://github.com/wrnatarb",
-        "fotos": ["thehandmaiden-1.webp","thehandmaiden-2.webp","thehandmaiden-3.webp"]
+        "fotos": ["thehandmaiden-1.jpg","thehandmaiden-2.jpg","thehandmaiden-3.jpg"]
     },
     {
         "nombre": "Ponyo",
         "fecha": "2010",
         "signo": "animado",
          "desc": "Durante una excursión prohibida para ver el mundo de la superficie, una princesa pez de colores conoce a un niño llamado Sosuke, quien le pone el nombre de Ponyo. Ponyo quiere volverse un humano, y mientras crece su amistad, ella se vuelve más humana. El padre de Ponyo la regresa al reino del océano, pero el deseo de Ponyo es tan poderoso que ella se libera, y en el proceso, derrama una colección de elixires mágicos que ponen en peligro la aldea de Sosuke.",
-        "foto": ["ponyo-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/2b24fa6c-39ff-4b21-a593-bb235642b2f9",
         "github": "https://github.com/wrnatarb",
-        "fotos": ["ponyo-1.webp","ponyo-2.webp","ponyo-3.webp"]
+        "fotos": ["ponyo-1.jpg","ponyo-2.jpg","ponyo-3.jpg"]
     },
     {
         "nombre": "Blue",
         "fecha": "2002",
         "signo": "pelicula",
-        "foto": ["blue-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/fde8d74b-89de-47a6-872b-76e7acadf019",
         "github": "https://github.com/wrnatarb",
         "desc": "Una estudiante introvertida se enamora y comienza una relación con una de sus compañeras de clase. Ambientada en un pequeño pueblo costero en Japón, el amor de su vida eventualmente la deja por su novio en Tokio.",
-        "fotos": ["blue-1.webp","blue-2.webp","blue-3.webp"]
+        "fotos": ["blue-1.jpg","blue-2.jpg","blue-3.jpg"]
     },
     {
         "nombre": "25 21",
         "fecha": "2022",
         "signo": "serie",
-        "foto": ["veinte-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/315b7edd-9ada-4c19-9f8a-56c90eeda355",
         "github": "https://github.com/wrnatarb",
         "desc": "En una época donde los objetivos parecen inalcanzables, una joven esgrimista persigue sus sueños y conoce a un joven trabajador que busca reconstruir su vida.",
-        "fotos": ["veinte-1.webp","veinte-2.webp","veinte-3.webp"]
+        "fotos": ["veinte-1.jpg","veinte-2.jpg","veinte-3.jpg"]
     },
     {
         "nombre": "Our beloved summer",
         "fecha": "2022",
         "signo": "serie",
-        "foto": ["summer-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/38e56113-20d6-4c20-8062-fc7f3bfc8f2c",
         "github": "https://github.com/wrnatarb",
         "desc": "Años después de un documental sobre una escuela que se viralizó, dos examantes deben enfrentar las cámaras y sus propias vidas.",
-        "fotos": ["summer-1.webp","summer-2.webp","summer-3.webp"]
+        "fotos": ["summer-1.jpg","summer-2.jpg","summer-3.jpg"]
     },
     {
         "nombre": "Kimi ni todoke",
         "fecha": "2009",
         "signo": "animado",
-        "foto": ["kiminitodoke-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/3e8b6bb5-ee99-4d8e-b03f-c83a962f2d0f",
         "github": "https://github.com/wrnatarb",
         "desc": "Sawako, una chica tímida con fama de ser terrorífica por su aspecto, encuentra su vida transformada al entablar amistad con el chico más popular de la clase, Kazehaya. Juntos descubrirán el valor de la conexión humana y de ser ellos mismos mientras experimentan los altibajos de la amistad y el primer amor.",
-        "fotos":  ["kiminitodoke-1.webp","kiminitodoke-2.webp","kiminitodoke-3.webp"]
+        "fotos":  ["kiminitodoke-1.jpg","kiminitodoke-2.jpg","kiminitodoke-3.jpg"]
     },
     {
         "nombre": "Reply 1988",
         "fecha": "2016",
         "signo": "serie",
-        "foto": ["reply-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/c23201ef-e4bb-43cc-8cb3-554cd9a9ac2a",
         "github": "https://github.com/wrnatarb",
         "desc": "Una mirada nostálgica al año 1988. La vida de cinco familias que viven en la misma calle en un barrio de Seúl.",
-        "fotos":["reply-1.webp","reply-2.webp","reply-3.webp"]
+        "fotos":["reply-1.jpg","reply-2.jpg","reply-3.jpg"]
     },
     {
         "nombre": "Four Adventures of Reinette and Mirabelle",
         "fecha": "1987",
         "signo": "pelicula",
-        "foto": ["four-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/5bb879e6-3a07-4e59-b418-0e88f7e5998a",
         "github": "https://github.com/wrnatarb",
         "desc": "Cuatro viñetas muestran las aventuras de una niña (Jessica Forde) citadina y una joven (Joelle Miquelle) campirana que se conocen y se hacen amigas en París.",
-        "fotos":["four-1.webp","four-2.webp","four-3.webp"]
+        "fotos":["four-1.jpg","four-2.jpg","four-3.jpg"]
     },
     {
         "nombre": "Saiki",
         "fecha": "2017",
         "signo": "animado",
-        "foto": ["saiki-0.webp"],
+        "foto": "https://github.com/user-attachments/assets/7200e71b-af76-4fa8-9dca-696bd8b78dc3",
         "github": "https://github.com/wrnatarb",
         "desc": "El estudiante de instituto Kusuo Saiki juró de pequeño que mantendría sus poderes psíquicos en secreto. Pero sus habilidades le siguen dificultando la vida.",
-        "fotos":["saiki-1.webp","saiki-2.webp","saiki-3.webp"]
+        "fotos":["saiki-1.jpg","saiki-2.jpg","saiki-3.jpg"]
     }
 ]
